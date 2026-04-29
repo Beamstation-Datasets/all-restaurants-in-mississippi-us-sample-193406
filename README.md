@@ -1,6 +1,6 @@
 # All Restaurants in Mississippi, US
 
-> Free BeamStation sample export with 491 rows and masked direct-contact fields.
+> Free BeamStation sample export with 629 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `193406` |
 | Location | Mississippi |
 | Category | Restaurants |
-| Full dataset size | 4,910 records |
-| Free sample size | 491 records (10.0%) |
-| Last export | 2026-04-21T22:19:56.084488+00:00 |
+| Full dataset size | 6,296 records |
+| Free sample size | 629 records (9.99%) |
+| Last export | 2026-04-29T01:06:46.282899+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-mississippi-us-sample-193406/releases/download/sample-latest/beamstation_193406_restaurants-us-ms_SAMPLE_DIST.csv) |
 
 ## What is in this sample
