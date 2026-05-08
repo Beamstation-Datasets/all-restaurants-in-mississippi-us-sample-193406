@@ -1,12 +1,12 @@
 {
-  "export_job_id": "92e92c0f-61f9-459a-a9eb-648d2b13c1d0",
+  "export_job_id": "badecaf4-673d-4201-bb13-67d424734486",
   "id_short": 193406,
-  "published_at": "2026-04-29T07:24:14Z",
+  "published_at": "2026-05-08T19:04:56Z",
   "repo_name": "all-restaurants-in-mississippi-us-sample-193406",
   "sample_asset_name": "beamstation_193406_restaurants-us-ms_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/193406/beamstation_193406_restaurants-us-ms_SAMPLE_DIST.csv",
-  "sample_records": 629,
-  "sample_sha256": "e1f4562699bdc6247e3285bbd1884879c9da76761270d9389c584e94672b7fb5",
-  "sample_size_bytes": 1844864,
-  "total_records": 6296
+  "sample_records": 691,
+  "sample_sha256": "f7d2552a12c7941424938ad980733635d1fa991069b281b0387ac124aebb47a8",
+  "sample_size_bytes": 1980295,
+  "total_records": 6917
 }
