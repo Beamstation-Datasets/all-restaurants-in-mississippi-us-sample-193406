@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Statewide restaurant dataset covering all active listings across Mississippi. Filtered by the Restaurants category group, this state-level export provides the broadest geographic coverage for market analysis. Includes business profiles, ratings, reviews, competitive rankings, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Mississippi, US",
-  "export_job_id": "92e92c0f-61f9-459a-a9eb-648d2b13c1d0",
+  "export_job_id": "badecaf4-673d-4201-bb13-67d424734486",
   "github_org": "Beamstation-Datasets",
   "id_short": 193406,
   "location_name": "Mississippi",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-mississippi-us-sample-193406",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/193406/beamstation_193406_restaurants-us-ms_SAMPLE_DIST.csv",
   "sample_pct": 9.99,
-  "sample_records": 629,
-  "sample_sha256": "e1f4562699bdc6247e3285bbd1884879c9da76761270d9389c584e94672b7fb5",
-  "sample_size_bytes": 1844864,
-  "total_records": 6296,
-  "updated_at": "2026-04-29T01:06:46.282899+00:00"
+  "sample_records": 691,
+  "sample_sha256": "f7d2552a12c7941424938ad980733635d1fa991069b281b0387ac124aebb47a8",
+  "sample_size_bytes": 1980295,
+  "total_records": 6917,
+  "updated_at": "2026-05-08T09:04:54.848267+00:00"
 }
